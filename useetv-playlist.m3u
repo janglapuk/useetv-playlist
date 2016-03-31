@@ -1,0 +1,380 @@
+#EXTM3U
+
+#EXTINF:-1,LOCAL - [002] USee Photo
+rtp://@239.1.1.253:9492
+
+#EXTINF:-1,LOCAL - [003] Usee Info
+rtp://@239.1.2.233:9372
+
+#EXTINF:-1,LOCAL - [007] Usee Otomoto
+rtp://@239.1.1.252:9486
+
+#EXTINF:-1,LOCAL - [008] DRTV
+rtp://@239.1.1.243:9432
+
+#EXTINF:-1,LOCAL - [009] MURAD
+rtp://@239.1.1.251:10004
+
+#EXTINF:-1,LOCAL - [042] INSERT
+rtp://@239.1.1.113:8652
+
+#EXTINF:-1,LOCAL - [179] Daai TV
+rtp://@239.1.2.179:9048
+
+#EXTINF:-1,LOCAL - [180] TVRI
+rtp://@239.1.2.37:8196
+
+#EXTINF:-1,LOCAL - [181] Metro TV
+rtp://@239.1.2.19:8088
+
+#EXTINF:-1,LOCAL - [182] CNN Indonesia
+rtp://@0.0.0.0
+
+#EXTINF:-1,LOCAL - [183] TV One
+rtp://@239.1.2.31:8160
+
+#EXTINF:-1,LOCAL - [184] Trans TV
+rtp://@239.1.2.27:8136
+
+#EXTINF:-1,LOCAL - [185] Trans 7
+rtp://@239.1.2.29:8148
+
+#EXTINF:-1,LOCAL - [186] SCTV
+rtp://@239.1.2.21:8100
+
+#EXTINF:-1,LOCAL - [187] Indosiar
+rtp://@239.1.2.17:8076
+
+#EXTINF:-1,LOCAL - [188] ANTV
+rtp://@239.1.2.15:8064
+
+#EXTINF:-1,LOCAL - [189] RCTI
+rtp://@239.1.2.23:8112
+
+#EXTINF:-1,LOCAL - [190] Global TV
+rtp://@239.1.2.13:8052
+
+#EXTINF:-1,LOCAL - [191] MNCTV
+rtp://@239.1.2.25:8124
+
+#EXTINF:-1,LOCAL - [192] Rajawali TV
+rtp://@239.1.2.69:8388
+
+#EXTINF:-1,LOCAL - [193] Lejel Home Shopping
+rtp://@239.1.2.3:7992
+
+#EXTINF:-1,LOCAL - [194] Kompas TV
+rtp://@239.1.2.197:9156
+
+#EXTINF:-1,LOCAL - [195] Berita Satu
+rtp://@239.1.2.183:9072
+
+#EXTINF:-1,LOCAL - [196] Jak TV
+rtp://@239.1.2.107:8616
+
+#EXTINF:-1,LOCAL - [197] TV Edukasi
+rtp://@239.1.2.39:8208
+
+#EXTINF:-1,LOCAL - [198] NET TV
+rtp://@239.1.2.119:8688
+
+
+
+#EXTINF:-1,KNOWLEDGE - [090] Khazanah
+rtp://@239.1.1.230:9356
+
+#EXTINF:-1,KNOWLEDGE - [281] National Geographic
+rtp://@239.1.2.169:8988
+
+#EXTINF:-1,KNOWLEDGE - [282] National Geographic Wild
+rtp://@239.1.2.35:8184
+
+#EXTINF:-1,KNOWLEDGE - [283] Crime & Investigations
+rtp://@239.1.2.59:8328
+
+#EXTINF:-1,KNOWLEDGE - [284] fyi
+rtp://@239.1.2.61:8340
+
+#EXTINF:-1,KNOWLEDGE - [285] History Channel
+rtp://@239.1.2.57:8316
+
+
+
+#EXTINF:-1,LIFESTYLE - [043] Eat and Go
+rtp://@239.1.1.229:9350
+
+#EXTINF:-1,LIFESTYLE - [480] Fashion One
+rtp://@239.1.2.127:8736
+
+#EXTINF:-1,LIFESTYLE - [481] E! Entertainment
+rtp://@239.1.2.145:8844
+
+#EXTINF:-1,LIFESTYLE - [484] Fashion TV
+rtp://@239.1.2.79:8448
+
+#EXTINF:-1,LIFESTYLE - [485] Nat Geo People
+rtp://@239.1.2.67:8376
+
+
+
+#EXTINF:-1,MUSIC - [082] T MUSIC
+rtp://@239.1.2.163:8952
+
+#EXTINF:-1,MUSIC - [453] PRAMBORS (Trial)
+rtp://@239.1.1.227:9336
+
+#EXTINF:-1,MUSIC - [488] MTV Live
+rtp://@239.1.2.5:8004
+
+#EXTINF:-1,MUSIC - [490] Channel [V]
+rtp://@239.1.2.173:9012
+
+#EXTINF:-1,MUSIC - [491] C Music
+rtp://@239.1.1.77:8436
+
+
+
+#EXTINF:-1,GEN ENT - [050] Showcase
+rtp://@239.1.1.225:9326
+
+#EXTINF:-1,GEN ENT - [051] Tahan Tawa
+rtp://@239.1.1.231:9362
+
+#EXTINF:-1,GEN ENT - [052] Dunia Lain
+rtp://@239.1.1.149:8868
+
+#EXTINF:-1,GEN ENT - [523] K-Plus (Trial)
+rtp://@239.1.1.242:9426
+
+#EXTINF:-1,GEN ENT - [525] Hi Indo (Trial)
+rtp://@239.1.1.240:9348
+
+#EXTINF:-1,GEN ENT - [570] Animax
+rtp://@239.1.2.157:8916
+
+#EXTINF:-1,GEN ENT - [571] DIVA
+rtp://@239.1.2.51:8280
+
+#EXTINF:-1,GEN ENT - [574] Star World
+rtp://@239.1.2.171:9000
+
+#EXTINF:-1,GEN ENT - [575] Lifetime
+rtp://@239.1.2.181:9260
+
+#EXTINF:-1,GEN ENT - [576] KIX
+rtp://@239.1.2.81:8460
+
+#EXTINF:-1,GEN ENT - [577] Comedy Central
+rtp://@239.1.2.9:8028
+
+#EXTINF:-1,GEN ENT - [578] Channel M
+rtp://@239.1.2.135:8784
+
+#EXTINF:-1,GEN ENT - [579] KBS World
+rtp://@239.1.2.167:8976
+
+#EXTINF:-1,GEN ENT - [580] Aniplus
+rtp://@239.1.2.117:8676
+
+#EXTINF:-1,GEN ENT - [581] NHK World Premium
+rtp://@239.1.2.165:8964
+
+#EXTINF:-1,GEN ENT - [582] WakuWaku Japan
+rtp://@239.1.2.75:8424
+
+#EXTINF:-1,GEN ENT - [583] Star Chinese
+rtp://@239.1.2.153:8892
+
+
+
+#EXTINF:-1,TV SERIES - [510] Pelangi (Trial)
+rtp://@239.1.1.110:8634
+
+#EXTINF:-1,TV SERIES - [522] Z Hiburan (Trial)
+rtp://@239.1.1.109:8628
+
+#EXTINF:-1,TV SERIES - [584] SyFy
+rtp://@239.1.2.49:8268
+
+#EXTINF:-1,TV SERIES - [585] Universal
+rtp://@239.1.2.85:8484
+
+#EXTINF:-1,TV SERIES - [586] AXN
+rtp://@239.1.2.137:8796
+
+#EXTINF:-1,TV SERIES - [588] Sony Channel
+rtp://@239.1.2.141:8820
+
+#EXTINF:-1,TV SERIES - [589] FOX
+rtp://@239.1.2.43:8232
+
+#EXTINF:-1,TV SERIES - [590] FOX Crime
+rtp://@239.1.2.161:8940
+
+#EXTINF:-1,TV SERIES - [591] FX
+rtp://@239.1.2.1:7980
+
+
+
+#EXTINF:-1,MOVIES - [060] Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1,MOVIES - [119] Flik
+rtp://@239.1.1.71:8400
+
+#EXTINF:-1,MOVIES - [616] RED by HBO (Trial)
+rtp://@239.1.1.114:8658
+
+#EXTINF:-1,MOVIES - [617] GALAXY (Trial)
+rtp://@239.1.1.184:8778
+
+#EXTINF:-1,MOVIES - [681] HBO
+rtp://@239.1.2.95:8544
+
+#EXTINF:-1,MOVIES - [682] HBO Signature
+rtp://@239.1.2.93:8532
+
+#EXTINF:-1,MOVIES - [683] Cinemax
+rtp://@239.1.2.87:8496
+
+#EXTINF:-1,MOVIES - [684] HBO Hits
+rtp://@239.1.2.91:8520
+
+#EXTINF:-1,MOVIES - [685] HBO Family
+rtp://@239.1.2.89:8508
+
+#EXTINF:-1,MOVIES - [686] AMC Channel
+rtp://@239.1.2.111:8640
+
+#EXTINF:-1,MOVIES - [687] FOX Movies Premium
+rtp://@239.1.2.11:8040
+
+#EXTINF:-1,MOVIES - [688] FOX Family
+rtp://@239.1.2.175:9024
+
+#EXTINF:-1,MOVIES - [689] FOX Action Movies
+rtp://@239.1.2.125:8724
+
+#EXTINF:-1,MOVIES - [690] Thrill
+rtp://@239.1.2.83:8472
+
+#EXTINF:-1,MOVIES - [691] Celestial
+rtp://@239.1.2.97:8556
+
+#EXTINF:-1,MOVIES - [692] Star Chinese Movies
+rtp://@239.1.2.131:8760
+
+#EXTINF:-1,MOVIES - [693] Star Chinese Movie Legend
+rtp://@239.1.2.151:8880
+
+#EXTINF:-1,MOVIES - [694] Z Bioskop
+rtp://@239.1.2.129:8748
+
+#EXTINF:-1,MOVIES - [695] Cinema World
+rtp://@239.1.2.189:9108
+
+
+
+#EXTINF:-1,SPORTS - [781] BeIn Sport 1
+rtp://@239.1.2.217:9216
+
+#EXTINF:-1,SPORTS - [782] BeIn Sport 2
+rtp://@239.1.2.221:9300
+
+#EXTINF:-1,SPORTS - [783] BeIn Sport 3
+rtp://@239.1.2.223:9312
+
+#EXTINF:-1,SPORTS - [784] Fight Sport
+rtp://@239.1.2.99:8568
+
+#EXTINF:-1,SPORTS - [785] FOX Sports 1
+rtp://@239.1.2.103:8592
+
+#EXTINF:-1,SPORTS - [786] FOX Sports 2
+rtp://@239.1.2.101:8580
+
+#EXTINF:-1,SPORTS - [787] FOX Sports 3
+rtp://@239.1.2.53:8292
+
+#EXTINF:-1,SPORTS - [788] FOX Sport News
+rtp://@239.1.2.55:8304
+
+
+
+#EXTINF:-1,NEWS - [881] CNN International
+rtp://@239.1.2.105:8604
+
+#EXTINF:-1,NEWS - [882] Bloomberg
+rtp://@239.1.2.199:9168
+
+#EXTINF:-1,NEWS - [883] CNBC Asia
+rtp://@239.1.2.155:8904
+
+#EXTINF:-1,NEWS - [884] Channel News Asia
+rtp://@239.1.2.65:8364
+
+#EXTINF:-1,NEWS - [885] Al-Jazeera
+rtp://@239.1.2.195:9144
+
+#EXTINF:-1,NEWS - [886] France 24
+rtp://@239.1.2.191:9120
+
+#EXTINF:-1,NEWS - [888] DW TV
+rtp://@239.1.2.187:9096
+
+#EXTINF:-1,NEWS - [889] Australian Plus
+rtp://@239.1.2.33:8172
+
+#EXTINF:-1,NEWS - [890] Arirang
+rtp://@239.1.2.147:8856
+
+#EXTINF:-1,NEWS - [891] CCTV 4
+rtp://@239.1.2.115:8664
+
+#EXTINF:-1,NEWS - [892] CCTV 9
+rtp://@239.1.2.121:8700
+
+#EXTINF:-1,NEWS - [894] Al-Quran Al-Karim
+rtp://@239.1.2.185:9084
+
+#EXTINF:-1,NEWS - [896] Euronews
+rtp://@0.0.0.0
+
+
+
+#EXTINF:-1,KIDS - [023] Dunia Anak
+rtp://@239.1.2.7:8016
+
+#EXTINF:-1,KIDS - [311] BabyFirst (Trial)
+rtp://@239.1.1.157:8916
+
+#EXTINF:-1,KIDS - [381] Disney Channel
+rtp://@239.1.2.45:8244
+
+#EXTINF:-1,KIDS - [382] Disney Junior
+rtp://@239.1.2.47:8256
+
+#EXTINF:-1,KIDS - [383] DaVinci Learning
+rtp://@239.1.2.177:9250
+
+#EXTINF:-1,KIDS - [384] Nickelodeon
+rtp://@239.1.2.41:8220
+
+#EXTINF:-1,KIDS - [385] Nick Jr.
+rtp://@239.1.2.159:8928
+
+#EXTINF:-1,KIDS - [386] Cartoon Network
+rtp://@239.1.2.123:8712
+
+#EXTINF:-1,KIDS - [387] Toonami
+rtp://@239.1.2.143:8832
+
+#EXTINF:-1,KIDS - [388] Boomerang
+rtp://@239.1.2.73:8412
+
+#EXTINF:-1,KIDS - [389] Duck TV
+rtp://@239.1.2.63:8352
+
+#EXTINF:-1,KIDS - [390] DreamWorks (Trial)
+rtp://@239.1.2.139:8808
+
