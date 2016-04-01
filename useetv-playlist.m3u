@@ -89,6 +89,9 @@ rtp://@239.1.2.169:8988
 #EXTINF:-1,KNOWLEDGE - [282] National Geographic Wild
 rtp://@239.1.2.35:8184
 
+#EXTINF:-1,KNOWLEDGE - [000] National Geographic Wild (HD)
+rtp://@239.1.1.207:9216
+
 #EXTINF:-1,KNOWLEDGE - [283] Crime & Investigations
 rtp://@239.1.2.59:8328
 
@@ -158,6 +161,9 @@ rtp://@239.1.2.51:8280
 #EXTINF:-1,GEN ENT - [574] Star World
 rtp://@239.1.2.171:9000
 
+#EXTINF:-1,GEN ENT - [000] Star World (HD)
+rtp://@239.1.1.209:9228
+
 #EXTINF:-1,GEN ENT - [575] Lifetime
 rtp://@239.1.2.181:9260
 
@@ -225,6 +231,9 @@ rtp://@239.1.1.71:8400
 #EXTINF:-1,MOVIES - [616] RED by HBO (Trial)
 rtp://@239.1.1.114:8658
 
+#EXTINF:-1,MOVIES - [000] RED by HBO (HD) (Trial)
+rtp://@239.1.1.133:8772
+
 #EXTINF:-1,MOVIES - [617] GALAXY (Trial)
 rtp://@239.1.1.184:8778
 
@@ -240,6 +249,9 @@ rtp://@239.1.2.87:8496
 #EXTINF:-1,MOVIES - [684] HBO Hits
 rtp://@239.1.2.91:8520
 
+#EXTINF:-1,MOVIES - [000] HBO Hits (HD)
+rtp://@239.1.1.215:9264
+
 #EXTINF:-1,MOVIES - [685] HBO Family
 rtp://@239.1.2.89:8508
 
@@ -249,8 +261,14 @@ rtp://@239.1.2.111:8640
 #EXTINF:-1,MOVIES - [687] FOX Movies Premium
 rtp://@239.1.2.11:8040
 
+#EXTINF:-1,MOVIES - [000] FOX Movies Premium (HD)
+rtp://@239.1.1.211:9240
+
 #EXTINF:-1,MOVIES - [688] FOX Family
 rtp://@239.1.2.175:9024
+
+#EXTINF:-1,MOVIES - [000] FOX Family (HD)
+rtp://@239.1.1.237:9396
 
 #EXTINF:-1,MOVIES - [689] FOX Action Movies
 rtp://@239.1.2.125:8724
@@ -273,6 +291,9 @@ rtp://@239.1.2.129:8748
 #EXTINF:-1,MOVIES - [695] Cinema World
 rtp://@239.1.2.189:9108
 
+#EXTINF:-1,MOVIES - [000] HBO (HD)
+rtp://@239.1.1.203:9192
+
 
 
 #EXTINF:-1,SPORTS - [781] BeIn Sport 1
@@ -283,6 +304,9 @@ rtp://@239.1.2.221:9300
 
 #EXTINF:-1,SPORTS - [783] BeIn Sport 3
 rtp://@239.1.2.223:9312
+
+#EXTINF:-1,SPORTS - [000] BeIn Sport 3 (HD)
+rtp://@239.1.1.205:9204
 
 #EXTINF:-1,SPORTS - [784] Fight Sport
 rtp://@239.1.2.99:8568
@@ -350,6 +374,9 @@ rtp://@239.1.1.157:8916
 
 #EXTINF:-1,KIDS - [381] Disney Channel
 rtp://@239.1.2.45:8244
+
+#EXTINF:-1,KIDS - [000] Disney Channel (HD)
+rtp://@239.1.1.201:9180
 
 #EXTINF:-1,KIDS - [382] Disney Junior
 rtp://@239.1.2.47:8256
